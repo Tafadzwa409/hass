@@ -412,6 +412,9 @@ footer ul li a{
     header #menu-icon{
         display: block;
     }
+    header{
+        width: 98%;
+    }
     .nav-links{
         position: absolute;
         top: 100%;
